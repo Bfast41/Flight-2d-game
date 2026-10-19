@@ -6,3 +6,6 @@ Add colison system and learn more about pygame and test different speed of rocke
 
 Day#4:
 Revise collison system again , wrote it , still more to go till then day 3 code will be there
+
+ 19 oct ,Monday :
+ Made 10 level with diffculty
