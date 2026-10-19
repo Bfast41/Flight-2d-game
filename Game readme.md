@@ -1,11 +1,25 @@
 Day #2:
-Learned pygame and type all line again to test on code and add more sprite moving in fixed xaxis and making the red main player inside bounds of screen
+Learned Pygame and typed all lines again to test the code and add more sprite movement in a fixed x-axis, and made the red main player stay within the bounds of the screen
 
 Day#3:
-Add colison system and learn more about pygame and test different speed of rocket and knowing about random module 
+Add collision system and learn more about pygame and test different speeds of the rocket, and learn about the random module 
 
 Day#4:
-Revise collison system again , wrote it , still more to go till then day 3 code will be there
+Revise collision system again, wrote it; still more to go till then. Day 3 code will be there
 
- 19 oct ,Monday :
- Made 10 level with diffculty
+ 19 Oct, Monday:
+ Made 10 levels with difficulty
+
+
+A fast-paced 2D survival flight game implemented using Python and Pygame. Fly your fighter plane past multiple waves of incoming rockets, survive 10 progressively difficult stages, and avoid all incoming dangers!
+
+## Technology Stack Used 
+* Implemented using **Python** and **Pygame** libraries.
+* Includes functionality such as scaling of assets, coordinate bounds, and accurate hitbox inflation to allow for smooth gameplay and accurate collision detection.
+* Incorporates dynamic scaling of difficulty, which increases speed of enemies as the game progresses.
+
+## Running Instructions
+1. Install **Python** on your system.
+2. In the command prompt, install Pygame by entering:
+   ```bash
+   pip install pygame
